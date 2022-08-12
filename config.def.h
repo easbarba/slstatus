@@ -70,7 +70,7 @@ static const struct arg args[] = {
     {separator, " | ", NULL},
     {temp, "GPUT: %s°C", "/sys/class/hwmon/hwmon2/temp1_input"},
     {separator, " | ", NULL},
-    {temp, "CPUT: %s°C", "/sys/class/hwmon/hwmon3/temp1_input"},
+    {temp, "CPUT: %s°C", "/sys/class/hwmon/hwmon4/temp1_input"},
     {separator, " | ", NULL},
     {temp, "MOBOT: %s°C", "/sys/class/hwmon/hwmon1/temp1_input"},
     {separator, " | ", NULL},
